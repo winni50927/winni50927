@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Growth Data Scientist & Engineer with 6+ years of experience in data analytics, experimentation, and growth strategy.  
-I specialize in driving product insights, optimizing advertising performance, and building data pipelines** to fuel decision-making. Passionate about using data to enhance user experiences, improve conversion rates, and maximize revenue.
+I specialize in driving product insights, optimizing advertising performance, and building data pipelines to fuel decision-making. Passionate about using data to enhance user experiences, improve conversion rates, and maximize revenue.
 
 🔍 What I Do  
 - Growth & Experimentation – A/B testing, behavioral analytics, and causal inference to optimize KPIs.  
