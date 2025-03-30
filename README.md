@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 🚀 Growth Data Scientist & Engineer with 6+ years of experience in data analytics, experimentation, and growth strategy. I specialize in driving product insights, optimizing advertising performance, and building data pipelines to fuel decision-making. Passionate about using data to enhance user experiences, improve conversion rates, and maximize revenue.
 
 🔍 What I Do
-🔹 Growth & Experimentation – A/B testing, behavioral analytics, and causal inference to optimize KPIs.
-🔹 Data Engineering & ETL – Automating data pipelines using Python, Airflow, and AWS.
-🔹 Machine Learning & AI – NLP (BERT, Transformers), Monte Carlo simulations, and predictive modeling.
-🔹 Data Visualization & BI – Developing dashboards in Tableau, Looker Studio, Power BI, and Google Analytics.
-🔹 Strategic Decision-Making – Partnering with marketing, product, and engineering teams to drive high-impact business growth.
+Growth & Experimentation – A/B testing, behavioral analytics, and causal inference to optimize KPIs.
+Data Engineering & ETL – Automating data pipelines using Python, Airflow, and AWS.
+ML & programming – NLP (BERT, Transformers), Monte Carlo simulations, and predictive modeling.
+Data Visualization & BI – Developing dashboards in Tableau, Looker Studio, Power BI, and Google Analytics.
+Strategic Decision-Making – Partnering with marketing, product, and engineering teams to drive high-impact business growth.
 
 🛠 Tech Stack
 Languages: Python (Pandas, NumPy, Scikit-learn), SQL, R
