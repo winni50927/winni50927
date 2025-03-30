@@ -34,3 +34,14 @@ I specialize in driving product insights, optimizing advertising performance, an
 
 👋 Let's Connect!
 [LinkedIn](https://linkedin.com/in/jui-fang-winni-hsu-0789a9128) 
+
+## 📚 Projects  
+Here, I showcase **self-initiated projects** focused on **data, modeling, and analytics** in **diverse and interesting domains**.  
+I love exploring new challenges, learn best practices, and apply data-driven approaches** to solve real-world problems.  
+
+### 🔹 Featured Projects  
+- **[Succeed in Rummikub](https://github.com/winni50927/rummikub-simulation)** – Crazy famous board game, Rummikub (my favorite!). I used **Monte Carlo simulations** to analyze **10,000 games**, identifying key factors that impact **winning probabilities**.  
+- **[Detecting Constructive Feedback](https://github.com/winni50927/constructive-feedback-nlp)** – No time to read hundreds of reviews for your **product or content**? I developed an **NLP-based model** to automatically detect the **most valuable and actionable feedback**.  
+- **[Predicting Viral Content](https://github.com/winni50927/viral-content-prediction)** – Want to know if your **content will go viral before posting**? I built a **machine learning model** that analyzes key engagement metrics and predicts the likelihood of success.  
+
+
