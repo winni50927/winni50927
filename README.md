@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Growth Data Scientist & Engineer with 6+ years of experience in data analytics, experimentation, and growth strategy.  
+Growth PM & Data Scientist & Engineer with 6+ years of experience in data analytics, experimentation, and growth strategy.  
 I specialize in driving product insights, optimizing advertising performance, and building data pipelines to fuel decision-making. Passionate about using data to enhance user experiences, improve conversion rates, and maximize revenue.
 
 🔍 What I Do  
